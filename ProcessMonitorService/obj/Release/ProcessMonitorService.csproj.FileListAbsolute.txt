@@ -1,0 +1,14 @@
+D:\Projects\C#\ProcessMonitor\PricessMonitor\ProcessMonitorService\bin\Release\ProcessMonitorService.exe.config
+D:\Projects\C#\ProcessMonitor\PricessMonitor\ProcessMonitorService\bin\Release\ProcessMonitorService.exe
+D:\Projects\C#\ProcessMonitor\PricessMonitor\ProcessMonitorService\bin\Release\ProcessMonitorService.pdb
+D:\Projects\C#\ProcessMonitor\PricessMonitor\ProcessMonitorService\obj\Release\ProcessMonitorService.ProjectInstaller.resources
+D:\Projects\C#\ProcessMonitor\PricessMonitor\ProcessMonitorService\obj\Release\ProcessMonitorService.csproj.GenerateResource.Cache
+D:\Projects\C#\ProcessMonitor\PricessMonitor\ProcessMonitorService\obj\Release\ProcessMonitorService.exe
+D:\Projects\C#\ProcessMonitor\PricessMonitor\ProcessMonitorService\obj\Release\ProcessMonitorService.pdb
+D:\Projects\C#\ProcessMonitor\ProcessMonitor\ProcessMonitorService\bin\Release\ProcessMonitorService.exe.config
+D:\Projects\C#\ProcessMonitor\ProcessMonitor\ProcessMonitorService\obj\Release\ProcessMonitorService.exe
+D:\Projects\C#\ProcessMonitor\ProcessMonitor\ProcessMonitorService\obj\Release\ProcessMonitorService.pdb
+D:\Projects\C#\ProcessMonitor\ProcessMonitor\ProcessMonitorService\bin\Release\ProcessMonitorService.exe
+D:\Projects\C#\ProcessMonitor\ProcessMonitor\ProcessMonitorService\bin\Release\ProcessMonitorService.pdb
+D:\Projects\C#\ProcessMonitor\ProcessMonitor\ProcessMonitorService\obj\Release\ProcessMonitorService.ProjectInstaller.resources
+D:\Projects\C#\ProcessMonitor\ProcessMonitor\ProcessMonitorService\obj\Release\ProcessMonitorService.csproj.GenerateResource.Cache

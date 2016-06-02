@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProcessMonitor", "PricessMonitor\ProcessMonitor.csproj", "{496A0B4F-B800-40ED-8CC9-E391121A8DBA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProcessMonitorService", "ProcessMonitorService\ProcessMonitorService.csproj", "{4C971338-C893-49CB-8BA0-7460015810CB}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SetupProcessMonitor", "SetupProcessMonitor\SetupProcessMonitor.vdproj", "{72675F57-CF6A-49B6-A46D-BF4954B3E428}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{496A0B4F-B800-40ED-8CC9-E391121A8DBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{496A0B4F-B800-40ED-8CC9-E391121A8DBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{496A0B4F-B800-40ED-8CC9-E391121A8DBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{496A0B4F-B800-40ED-8CC9-E391121A8DBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C971338-C893-49CB-8BA0-7460015810CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C971338-C893-49CB-8BA0-7460015810CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C971338-C893-49CB-8BA0-7460015810CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C971338-C893-49CB-8BA0-7460015810CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72675F57-CF6A-49B6-A46D-BF4954B3E428}.Debug|Any CPU.ActiveCfg = Debug
+		{72675F57-CF6A-49B6-A46D-BF4954B3E428}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

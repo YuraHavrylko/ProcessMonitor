@@ -1,0 +1,8 @@
+D:\Projects\C#\ProcessMonitor\PricessMonitor\PricessMonitor\bin\Debug\PricessMonitor.exe.config
+D:\Projects\C#\ProcessMonitor\PricessMonitor\PricessMonitor\bin\Debug\PricessMonitor.exe
+D:\Projects\C#\ProcessMonitor\PricessMonitor\PricessMonitor\bin\Debug\PricessMonitor.pdb
+D:\Projects\C#\ProcessMonitor\PricessMonitor\PricessMonitor\obj\Debug\PricessMonitor.Properties.Resources.resources
+D:\Projects\C#\ProcessMonitor\PricessMonitor\PricessMonitor\obj\Debug\ProcessMonitor.csproj.GenerateResource.Cache
+D:\Projects\C#\ProcessMonitor\PricessMonitor\PricessMonitor\obj\Debug\PricessMonitor.exe
+D:\Projects\C#\ProcessMonitor\PricessMonitor\PricessMonitor\obj\Debug\PricessMonitor.pdb
+D:\Projects\C#\ProcessMonitor\PricessMonitor\PricessMonitor\obj\Debug\ProcessMonitor.Monitor.resources

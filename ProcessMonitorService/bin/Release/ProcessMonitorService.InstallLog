@@ -1,0 +1,21 @@
+﻿Выполняется установка сборки 'D:\Projects\C#\ProcessMonitor\ProcessMonitor\ProcessMonitorService\bin\Release\ProcessMonitorService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\Projects\C#\ProcessMonitor\ProcessMonitor\ProcessMonitorService\bin\Release\ProcessMonitorService.InstallLog
+   assemblypath = D:\Projects\C#\ProcessMonitor\ProcessMonitor\ProcessMonitorService\bin\Release\ProcessMonitorService.exe
+Устанавливается служба ProcessMonitorService...
+Создается исходный EventLog ProcessMonitorService в журнале Application...
+Выполняется откат для сборки 'D:\Projects\C#\ProcessMonitor\ProcessMonitor\ProcessMonitorService\bin\Release\ProcessMonitorService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\Projects\C#\ProcessMonitor\ProcessMonitor\ProcessMonitorService\bin\Release\ProcessMonitorService.InstallLog
+   assemblypath = D:\Projects\C#\ProcessMonitor\ProcessMonitor\ProcessMonitorService\bin\Release\ProcessMonitorService.exe
+Восстанавливается исходное состояние журнала событий для источника ProcessMonitorService.
+Выполняется удаление сборки 'D:\Projects\C#\ProcessMonitor\ProcessMonitor\ProcessMonitorService\bin\Release\ProcessMonitorService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\Projects\C#\ProcessMonitor\ProcessMonitor\ProcessMonitorService\bin\Release\ProcessMonitorService.InstallLog
+   assemblypath = D:\Projects\C#\ProcessMonitor\ProcessMonitor\ProcessMonitorService\bin\Release\ProcessMonitorService.exe
+Выполняется удаление источника EventLog ProcessMonitorService.
+Выполняется удаление службы ProcessMonitorService из системы...
+Служба ProcessMonitorService успешно удалена из системы.
